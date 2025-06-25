@@ -5,10 +5,10 @@
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Screen](images/screenshot1.png)
+![Main Screen](images/Screenshot 2025-06-25 172935.png)
+![Main Screen](images/Screenshot 2025-06-25 220947.png)
+![Main Screen](images/Screenshot 2025-06-25 221036.png)
 
-### Dashboard View
-![Dashboard](images/screenshot2.png)
 
 
 
